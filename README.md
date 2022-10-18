@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://jincode93.tistory.com" target="_blank"><img src="https://img.shields.io/badge/BLOG-ECD53F?style=flat&logo=Tistory&logoColor=071D49"/></a>
+<a href="https://jincode93.tistory.com" target="_blank"><img src="https://img.shields.io/badge/BLOG-FDEE21?style=flat&logo=Tistory&logoColor=071D49"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/iOS APP-000000?style=flat&logo=Apple&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=FFFFFF"/></a>
