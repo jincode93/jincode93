@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jincode93&show_icons=true&theme=algolia)
-
-<a href="https://jincode93.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FDEE21?style=flat&logo=Tistory&logoColor=071D49"/></a>
